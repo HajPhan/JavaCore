@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4d17cdd-d491-4626-9766-88fe941f90c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/Java-Annotations.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/test/AnnotaionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/test/AnnotationParsing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/test/MethodInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="82ba9ef9-3f55-4c20-b045-91cc1ab3f25c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Annotations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/edu/vn/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/edu/vn/test/AnnotaionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/edu/vn/test/AnnotationParsing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/edu/vn/test/MethodInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-String-Join()/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-String-Join()/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java_HeapSpace_Stack_MemoryAllocation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_HeapSpace_Stack_MemoryAllocation/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../New folder/.idea/New folder.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../New folder/.idea/misc.xml" beforeDir="false" />
@@ -31,26 +31,46 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/package-info.java">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/Java_String_Join.java">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/MethodInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            <state relative-caret-position="145">
+              <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/AnnotaionExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" selection-end-line="1" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#154#155#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
+                <element signature="e#537#538#0" expanded="true" />
+                <element signature="e#540#586#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/demo/AbstractClass.java">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/AnnotationParsing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="122">
+              <caret line="26" column="74" selection-start-line="26" selection-start-column="74" selection-end-line="26" selection-end-column="74" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,8 +91,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/mta/edu/vn/test/Java_String_Join.java" />
-        <option value="$PROJECT_DIR$/src/mta/edu/vn/demo/AbstractClass.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/test/MethodInfo.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/test/AnnotaionExample.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/test/AnnotaionParsing.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/test/AnnotationParsing.java" />
       </list>
     </option>
   </component>
@@ -88,40 +110,53 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Java-String-Join()" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-String-Join()" type="462c0819:PsiDirectoryNode" />
+              <item name="Java-Annotations" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Annotations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Java-String-Join()" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-String-Join()" type="462c0819:PsiDirectoryNode" />
+              <item name="Java-Annotations" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Annotations" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Java-String-Join()" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-String-Join()" type="462c0819:PsiDirectoryNode" />
+              <item name="Java-Annotations" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Annotations" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="vn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Annotations" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Annotations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="vn" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/mta/edu/vn" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hajph\Documents\GitHub\JavaCore\Java-Annotations\src\mta\edu\vn" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -135,23 +170,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AbstractClass">
-    <configuration name="AbstractClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mta.edu.vn.demo.AbstractClass" />
-      <module name="Java-String-Join()" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mta.edu.vn.demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Java_String_Join" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mta.edu.vn.test.Java_String_Join" />
-      <module name="Java-String-Join()" />
+  <component name="RunManager" selected="Application.AnnotationParsing">
+    <configuration name="AnnotationParsing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mta.edu.vn.test.AnnotationParsing" />
+      <module name="Java-Annotations" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="mta.edu.vn.test.*" />
@@ -164,7 +186,7 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Java-String-Join()" />
+      <module name="Java-Annotations" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -174,13 +196,11 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Java_String_Join" />
-      <item itemvalue="Application.AbstractClass" />
+      <item itemvalue="Application.AnnotationParsing" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AbstractClass" />
-        <item itemvalue="Application.Java_String_Join" />
+        <item itemvalue="Application.AnnotationParsing" />
       </list>
     </recent_temporary>
   </component>
@@ -189,37 +209,36 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c4d17cdd-d491-4626-9766-88fe941f90c0" name="Default Changelist" comment="" />
-      <created>1562550713639</created>
+      <changelist id="82ba9ef9-3f55-4c20-b045-91cc1ab3f25c" name="Default Changelist" comment="" />
+      <created>1562572091066</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1562550713639</updated>
-      <workItem from="1562550716920" duration="8512000" />
+      <updated>1562572091066</updated>
+      <workItem from="1562572156674" duration="7465000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8512000" />
+    <option name="totallyTimeSpent" value="7465000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.44444445" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32850242" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -241,22 +260,40 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/package-info.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/Java_String_Join.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/AnnotaionExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-end-line="1" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#540#586#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/demo/AbstractClass.java">
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/MethodInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="145">
+          <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/AnnotationParsing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="26" column="74" selection-start-line="26" selection-start-column="74" selection-end-line="26" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
