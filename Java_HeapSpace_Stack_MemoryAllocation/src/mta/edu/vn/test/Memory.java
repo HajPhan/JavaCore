@@ -37,6 +37,10 @@ public class Memory {
 
     private void foo(Object param){ // line 6
         String str = param.toString();  // line 7
+        System.err.println(str.hashCode());
         System.out.println(str);
+        System.err.println(param.hashCode());
+        System.out.println(param);
+        System.err.println("");
     } // line 8
 }
