@@ -11,14 +11,14 @@ public class Main {
         set.add(new Person(1,"A"));
         set.add(new Person(2,"B"));
         set.add(new Person(3,"C"));
-        set.add(new Person(1,"A"));
+        set.add(new Person(4,"A"));
 
         System.out.println("Before remove ...");
         for(Person p : set){
             System.out.println(p.getId() + " :: " + p.getName());
         }
 
-        set.remove(new Person(1,"C"));
+        set.remove(new Person(1,"A"));
 
         System.out.println("After remove ...");
         for(Person p : set){
