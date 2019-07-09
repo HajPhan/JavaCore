@@ -2,20 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82ba9ef9-3f55-4c20-b045-91cc1ab3f25c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Java-Comparable/src/mta/edu/vn/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Comparable/src/mta/edu/vn/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Comparable/src/mta/edu/vn/test/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Comparator/Java-Comparator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Comparator/src/mta/edu/vn/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Comparator/src/mta/edu/vn/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Comparator/src/mta/edu/vn/test/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/enums/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/enums/ThreadStates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/enums/ThreadStatesConstant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/test/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/test/MyEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/Java-Set-LinkedHashSet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/src/mta/edu/vn/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/src/mta/edu/vn/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/src/mta/edu/vn/test/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Comparable/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Comparable/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Comparator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Comparator/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -214,7 +206,7 @@
       <option name="presentableId" value="Default" />
       <updated>1562572091066</updated>
       <workItem from="1562572156674" duration="7465000" />
-      <workItem from="1562635550545" duration="4976000" />
+      <workItem from="1562635550545" duration="5587000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit :smile:">
       <created>1562639783971</created>
@@ -227,7 +219,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12441000" />
+    <option name="totallyTimeSpent" value="13052000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />

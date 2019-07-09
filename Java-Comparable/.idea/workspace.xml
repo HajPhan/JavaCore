@@ -2,20 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1810729-cfb5-45b7-b694-c6a073113f15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/mta/edu/vn/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mta/edu/vn/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mta/edu/vn/test/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Comparator/Java-Comparator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Comparator/src/mta/edu/vn/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Comparator/src/mta/edu/vn/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Comparator/src/mta/edu/vn/test/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/enums/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/enums/ThreadStates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/enums/ThreadStatesConstant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/test/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/test/MyEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/Java-Set-LinkedHashSet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/src/mta/edu/vn/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/src/mta/edu/vn/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/src/mta/edu/vn/test/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java-Annotations/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Comparator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Comparator/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="21" column="61" lean-forward="true" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
+              <caret line="21" column="61" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -120,6 +113,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -262,7 +256,7 @@
     <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="21" column="61" lean-forward="true" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
+          <caret line="21" column="61" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
