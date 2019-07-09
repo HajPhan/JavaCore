@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82ba9ef9-3f55-4c20-b045-91cc1ab3f25c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Java-Comparable/src/mta/edu/vn/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Comparable/src/mta/edu/vn/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Comparable/src/mta/edu/vn/test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Comparator/Java-Comparator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Comparator/src/mta/edu/vn/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Comparator/src/mta/edu/vn/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Comparator/src/mta/edu/vn/test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/enums/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/enums/ThreadStates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/enums/ThreadStatesConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/test/MyEnum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Annotations/mta/edu/vn/test/AnnotationParsing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Annotations/mta/edu/vn/test/AnnotationParsing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mta/edu/vn/test/AnnotaionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mta/edu/vn/test/AnnotaionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mta/edu/vn/test/AnnotationParsing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mta/edu/vn/test/AnnotationParsing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mta/edu/vn/test/MethodInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mta/edu/vn/test/MethodInfo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/MethodInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-430">
-              <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+            <state relative-caret-position="-175">
+              <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -205,15 +214,24 @@
       <option name="presentableId" value="Default" />
       <updated>1562572091066</updated>
       <workItem from="1562572156674" duration="7465000" />
-      <workItem from="1562635550545" duration="3132000" />
+      <workItem from="1562635550545" duration="4976000" />
     </task>
+    <task id="LOCAL-00001" summary="First Commit :smile:">
+      <created>1562639783971</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562639783971</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10597000" />
+    <option name="totallyTimeSpent" value="12441000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -249,6 +267,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit :smile:" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit :smile:" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/package-info.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -282,8 +304,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/MethodInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-430">
-          <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        <state relative-caret-position="-175">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
         </state>
       </provider>
     </entry>
