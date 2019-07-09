@@ -5,7 +5,8 @@ import java.lang.reflect.Method;
 
 public class AnnotationParsing {
     public static void main(String[] args) {
-/*        try {
+
+        /*        try {
             for(Method method : AnnotaionParsing.class.getClassLoader().loadClass("mta.edu.vn.test").getMethods()){
                 // check if MethodInfo annotation is parsent for the method
                 if(method.isAnnotationPresent(mta.edu.vn.test.MethodInfo.class)){
@@ -24,7 +25,7 @@ public class AnnotationParsing {
         }*/
 
         try {
-            for (Method method : AnnotationParsing.class.getClassLoader().loadClass(("mta.edu.vn.test")).getMethods()) {
+            for (Method method : AnnotationParsing.class.getClassLoader().loadClass("mta.edu.vn.test.AnnotaionExample").getMethods()) {
                 // checks if MethodInfo annotation is present for the method
                 if (method.isAnnotationPresent(mta.edu.vn.test.MethodInfo.class)) {
                     try {

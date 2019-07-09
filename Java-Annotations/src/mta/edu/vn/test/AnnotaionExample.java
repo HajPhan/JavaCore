@@ -7,7 +7,6 @@ public class AnnotaionExample {
     public static void main(String[] args) {
 
     }
-
     @Override
     @MethodInfo(author = "hai", comments = "Main method", date = "Nov 17 2012", revision = 1)
     public String toString() {

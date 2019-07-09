@@ -5,10 +5,16 @@ import java.lang.annotation.*;
 /**
  * Note:
  *     1. Các annotation method không có parameters
+ *
  *     2. Các kiểu trả về của annotation method được gới hạn ở các kiểu dữ liệu nguyên thủy (long, int, byte, ...), String
  *        Enum, Annotation or array các kiểu dữ liệu này.
+ *
  *     3. Các method annotation có thể có giá trị mặc định (default).
+ *
  *     4. Các annotation có thể có meta annotation kèm theo. Meta annotation được sử dụng để cung cấp thông tin về chú thích.
+ *
+ *********************************************************************************************************************************
+ *********************************************************************************************************************************
  *
  * Meta Annotations in Java:
  *
