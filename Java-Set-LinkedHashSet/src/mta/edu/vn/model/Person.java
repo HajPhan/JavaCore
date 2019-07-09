@@ -31,13 +31,13 @@ public class Person {
 
     @Override
     public boolean equals(Object obj) {
-        System.err.println("Equals ...");
+        System.out.println("Equals ...");
         return (obj instanceof Person) ? (((Person) obj).getName() == this.name) : false;
     }
 
     @Override
     public int hashCode() {
-        System.err.println("Hashcode ...");
+        System.out.println("Hashcode ...");
         return this.id;
     }
 }

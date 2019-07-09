@@ -13,14 +13,14 @@ public class Main {
         set.add(new Person(3,"C"));
         set.add(new Person(1,"A"));
 
-        System.err.println("Before remove ...");
+        System.out.println("Before remove ...");
         for(Person p : set){
             System.out.println(p.getId() + " :: " + p.getName());
         }
 
         set.remove(new Person(1,"C"));
 
-        System.err.println("After remove ...");
+        System.out.println("After remove ...");
         for(Person p : set){
             System.out.println(p.getId() + " :: " + p.getName());
         }

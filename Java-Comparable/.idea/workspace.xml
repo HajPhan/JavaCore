@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1810729-cfb5-45b7-b694-c6a073113f15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/Java-Set-LinkedHashSet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/src/mta/edu/vn/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/src/mta/edu/vn/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/src/mta/edu/vn/test/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java-Annotations/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java-Comparator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Comparator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Enum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Enum/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -202,7 +199,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32850242" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
