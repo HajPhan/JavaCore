@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e13473d6-27fc-42b0-bde8-adc479041117" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Java-Equal()-Method/src/mta/edu/vn/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Equal()-Method/src/mta/edu/vn/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Equal()-Method/src/mta/edu/vn/package-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Set-LinkedHashSet/mta/edu/vn/model/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Set-LinkedHashSet/mta/edu/vn/model/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Set-LinkedHashSet/mta/edu/vn/test/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Set-LinkedHashSet/mta/edu/vn/test/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mta/edu/vn/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mta/edu/vn/test/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -184,7 +178,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
