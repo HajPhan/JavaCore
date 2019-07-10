@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35a3c711-1941-4f50-8980-0865b6050b24" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/mta/edu/vn/data/DataKey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mta/edu/vn/test/HashingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Wraper-Autoboxing-Unboxing/src/mta/edu/vn/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Wraper-Autoboxing-Unboxing/src/mta/edu/vn/wrapper/WrapperExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Generics/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/GennericHeritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/GennericWildcards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/GennericsMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/GennericsType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/GennericsTypeOld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Wraper-Autoboxing-Unboxing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Wraper-Autoboxing-Unboxing/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -113,7 +118,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-97" />
     <option name="y" value="119" />
     <option name="width" value="1221" />
@@ -232,7 +237,7 @@
     <option name="totallyTimeSpent" value="9248000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
@@ -244,7 +249,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32850242" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993559" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
