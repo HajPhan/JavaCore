@@ -24,9 +24,11 @@ public class GenericBoundedTypeParameters {
         // some implementation here ...
     }
 
+/*
     public static <T super InputStream> void a(T a){
 
     }
+*/
 
     public static <T extends Serializable> void store(final T object) {
         // some implementation here ...
