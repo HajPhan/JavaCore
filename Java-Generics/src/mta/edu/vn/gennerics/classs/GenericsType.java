@@ -1,6 +1,6 @@
-package mta.edu.vn.gennerics;
+package mta.edu.vn.gennerics.classs;
 
-public class GennericsType<T> {
+public class GenericsType<T> {
 
     private T t;
 
@@ -13,12 +13,12 @@ public class GennericsType<T> {
     }
 
     public static void main(String[] args) {
-        GennericsType<String> type = new GennericsType<>();
+        GenericsType<String> type = new GenericsType<>();
         type.setT("Phan");  // valid
         System.out.println(type.getT());
 
         @SuppressWarnings("rawtypes")
-        GennericsType type1 = new GennericsType();  // raw type (loại thô)
+        GenericsType type1 = new GenericsType();  // raw type (loại thô)
         type1.setT("Van");  // valid
         System.out.println(type1.getT());
         type1.setT(10);     // valid and autoboxing support

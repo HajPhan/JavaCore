@@ -1,9 +1,8 @@
-package mta.edu.vn.gennerics;
+package mta.edu.vn.gennerics.classs;
 
 import java.util.List;
-import java.util.Objects;
 
-public class GennericHeritance {
+public class GenericHeritance {
 
     public static void main(String [] args){
         String str = "abc";

@@ -1,6 +1,6 @@
-package mta.edu.vn.gennerics;
+package mta.edu.vn.gennerics.classs;
 
-public class GennericsTypeOld {
+public class GenericsTypeOld {
 
     private Object t;
 
@@ -13,7 +13,7 @@ public class GennericsTypeOld {
     }
 
     public static void main(String [] args){
-        GennericsTypeOld type = new GennericsTypeOld();
+        GenericsTypeOld type = new GenericsTypeOld();
         type.set("Phan");
         String str = (String) type.get();
         System.out.println(str);

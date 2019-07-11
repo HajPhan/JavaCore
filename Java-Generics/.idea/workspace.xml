@@ -2,16 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="523569ff-0166-491d-a2a5-2f1e0599a804" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mta/edu/vn/gennerics/GennericHeritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mta/edu/vn/gennerics/GennericWildcards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mta/edu/vn/gennerics/GennericsMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mta/edu/vn/gennerics/GennericsType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mta/edu/vn/gennerics/GennericsTypeOld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mta/edu/vn/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-Equal()-Method/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Equal()-Method/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/ClassImplemeningGenericInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/GenericBoundedTypeParameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/GenericClassImplementingGenericInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/GenericClassOneType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/edu/vn/gennerics/interfaces/GenericIntefaceOneType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/edu/vn/gennerics/interfaces/GenericIntefaceSeveralTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/edu/vn/gennerics/methods/GenericMethodOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/edu/vn/gennerics/methods/GenericMethodTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/edu/vn/gennerics/methods/GenericsMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-Wraper-Autoboxing-Unboxing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Wraper-Autoboxing-Unboxing/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Generics/mta/edu/vn/gennerics/GennericHeritance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Generics/mta/edu/vn/gennerics/GennericWildcards.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Generics/mta/edu/vn/gennerics/GennericsMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Generics/mta/edu/vn/gennerics/GennericsType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Generics/mta/edu/vn/gennerics/GennericsTypeOld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Generics/mta/edu/vn/gennerics/MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Generics/mta/edu/vn/gennerics/MyList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mta/edu/vn/gennerics/GennericHeritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/GenericHeritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mta/edu/vn/gennerics/GennericWildcards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/GenericWildcards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mta/edu/vn/gennerics/GennericsMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mta/edu/vn/gennerics/GennericsType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/GenericsType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mta/edu/vn/gennerics/GennericsTypeOld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/GenericsTypeOld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mta/edu/vn/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mta/edu/vn/package-info.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,98 +34,113 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/package-info.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/GennericsTypeOld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-              <folding>
-                <element signature="e#137#138#0" expanded="true" />
-                <element signature="e#165#166#0" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
-                <element signature="e#223#224#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="298">
+              <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/GennericsType.java">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/GenericBoundedTypeParameters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
-              <folding>
-                <element signature="e#131#132#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/GennericsMethod.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-              <folding>
-                <element signature="e#170#171#0" expanded="true" />
-                <element signature="e#201#202#0" expanded="true" />
-                <element signature="e#302#303#0" expanded="true" />
-                <element signature="e#352#353#0" expanded="true" />
-                <element signature="e#396#397#0" expanded="true" />
-                <element signature="e#421#422#0" expanded="true" />
-                <element signature="e#661#669#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/GennericHeritance.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="153">
+              <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#323#331#0" expanded="true" />
-                <element signature="e#375#383#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/GenericsTypeOld.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/methods/GenericMethodOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/GenericsType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-68">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/methods/GenericsMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="67" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
+              <folding>
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#352#353#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#788#796#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/GennericWildcards.java">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/GenericWildcards.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="55" column="34" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
+            <state relative-caret-position="230">
+              <caret line="78" column="21" selection-start-line="78" selection-start-column="21" selection-end-line="78" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1216#1217#0" expanded="true" />
-                <element signature="e#1241#1242#0" expanded="true" />
+                <element signature="e#2310#2311#0" expanded="true" />
+                <element signature="e#2339#2340#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/Number.java">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/GenericHeritance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="28" column="66" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="66" />
-              <caret line="29" column="66" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="66" />
-              <caret line="30" column="70" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="70" />
-              <caret line="31" column="41" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="41" />
+            <state relative-caret-position="391">
+              <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/ClassImplemeningGenericInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/GenericClassOneType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -138,6 +166,18 @@
         <option value="$PROJECT_DIR$/src/mta/edu/vn/gennerics/GennericsMethod.java" />
         <option value="$PROJECT_DIR$/src/mta/edu/vn/gennerics/GennericHeritance.java" />
         <option value="$PROJECT_DIR$/src/mta/edu/vn/gennerics/GennericWildcards.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/gennerics/GenericIntefaceOneType.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/GenericsMethod.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/GenericsType.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/gennerics/interfaces/GenericIntefaceSeveralTypes.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/ClassImplemeningGenericInterface.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/GenericClassOneType.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/gennerics/methods/GenericMethodOne.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/gennerics/methods/GenericMethodTwo.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/GenericClassImplementingGenericInterface.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/package-info.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/GenericBoundedTypeParameters.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/GenericWildcards.java" />
       </list>
     </option>
   </component>
@@ -154,7 +194,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,10 +219,42 @@
               <item name="vn" type="462c0819:PsiDirectoryNode" />
               <item name="gennerics" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Java-Generics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Generics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="vn" type="462c0819:PsiDirectoryNode" />
+              <item name="gennerics" type="462c0819:PsiDirectoryNode" />
+              <item name="classs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Generics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Generics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="vn" type="462c0819:PsiDirectoryNode" />
+              <item name="gennerics" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Generics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Generics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="vn" type="462c0819:PsiDirectoryNode" />
+              <item name="gennerics" type="462c0819:PsiDirectoryNode" />
+              <item name="methods" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Generics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Generics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="vn" type="462c0819:PsiDirectoryNode" />
+              <item name="package-info.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -193,6 +264,7 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -206,13 +278,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GennericWildcards">
-    <configuration name="GennericHeritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mta.edu.vn.gennerics.GennericHeritance" />
+  <component name="RunManager" selected="Application.GenericBoundedTypeParameters">
+    <configuration name="GenericBoundedTypeParameters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mta.edu.vn.gennerics.classs.GenericBoundedTypeParameters" />
       <module name="Java-Generics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mta.edu.vn.gennerics.*" />
+          <option name="PATTERN" value="mta.edu.vn.gennerics.classs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,12 +292,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GennericWildcards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mta.edu.vn.gennerics.GennericWildcards" />
+    <configuration name="GenericHeritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mta.edu.vn.gennerics.classs.GenericHeritance" />
       <module name="Java-Generics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mta.edu.vn.gennerics.*" />
+          <option name="PATTERN" value="mta.edu.vn.gennerics.interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,12 +305,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GennericsMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mta.edu.vn.gennerics.GennericsMethod" />
+    <configuration name="GenericWildcards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mta.edu.vn.gennerics.classs.GenericWildcards" />
       <module name="Java-Generics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mta.edu.vn.gennerics.*" />
+          <option name="PATTERN" value="mta.edu.vn.gennerics.interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,12 +318,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GennericsType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mta.edu.vn.gennerics.GennericsType" />
+    <configuration name="GenericsMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mta.edu.vn.gennerics.methods.GenericsMethod" />
       <module name="Java-Generics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mta.edu.vn.gennerics.*" />
+          <option name="PATTERN" value="mta.edu.vn.gennerics.interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -259,12 +331,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GennericsTypeOld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mta.edu.vn.gennerics.GennericsTypeOld" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mta.edu.vn.Test" />
       <module name="Java-Generics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mta.edu.vn.gennerics.*" />
+          <option name="PATTERN" value="mta.edu.vn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -273,19 +345,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.GennericsTypeOld" />
-      <item itemvalue="Application.GennericsType" />
-      <item itemvalue="Application.GennericsMethod" />
-      <item itemvalue="Application.GennericHeritance" />
-      <item itemvalue="Application.GennericWildcards" />
+      <item itemvalue="Application.GenericsMethod" />
+      <item itemvalue="Application.GenericHeritance" />
+      <item itemvalue="Application.GenericWildcards" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.GenericBoundedTypeParameters" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GennericWildcards" />
-        <item itemvalue="Application.GennericHeritance" />
-        <item itemvalue="Application.GennericsMethod" />
-        <item itemvalue="Application.GennericsType" />
-        <item itemvalue="Application.GennericsTypeOld" />
+        <item itemvalue="Application.GenericBoundedTypeParameters" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.GenericWildcards" />
+        <item itemvalue="Application.GenericHeritance" />
+        <item itemvalue="Application.GenericsMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -300,64 +372,54 @@
       <option name="presentableId" value="Default" />
       <updated>1562727409165</updated>
       <workItem from="1562727412356" duration="7016000" />
+      <workItem from="1562808227306" duration="1000000" />
+      <workItem from="1562810144703" duration="14905000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7016000" />
+    <option name="totallyTimeSpent" value="22921000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32850242" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32850242" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32850242" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32850242" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
-          <folding>
-            <element signature="e#64#65#0" expanded="true" />
-            <element signature="e#114#115#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/package-info.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
     <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/Number.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -368,66 +430,139 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/GennericHeritance.java">
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/GenericClassImplementingGenericInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="111" selection-start-line="47" selection-start-column="111" selection-end-line="47" selection-end-column="111" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#323#331#0" expanded="true" />
-            <element signature="e#375#383#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#718#719#0" expanded="true" />
+            <element signature="e#930#931#0" expanded="true" />
+            <element signature="e#957#958#0" expanded="true" />
+            <element signature="e#1076#1077#0" expanded="true" />
+            <element signature="e#1103#1104#0" expanded="true" />
+            <element signature="e#1238#1239#0" expanded="true" />
+            <element signature="e#1265#1266#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/GennericsMethod.java">
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/methods/GenericMethodTwo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        <state relative-caret-position="68">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/interfaces/GenericIntefaceOneType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/interfaces/GenericIntefaceSeveralTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/methods/GenericMethodOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/methods/GenericsMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="67" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
           <folding>
             <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
             <element signature="e#302#303#0" expanded="true" />
             <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#661#669#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#788#796#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/GennericsType.java">
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/ClassImplemeningGenericInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
-          <folding>
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="119">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/GennericsTypeOld.java">
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/GenericClassOneType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-          <folding>
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/GennericWildcards.java">
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/GenericHeritance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="55" column="34" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
+        <state relative-caret-position="391">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/GenericsTypeOld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/GenericsType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/GenericBoundedTypeParameters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1216#1217#0" expanded="true" />
-            <element signature="e#1241#1242#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/GenericWildcards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="78" column="21" selection-start-line="78" selection-start-column="21" selection-end-line="78" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2310#2311#0" expanded="true" />
+            <element signature="e#2339#2340#0" expanded="true" />
           </folding>
         </state>
       </provider>
