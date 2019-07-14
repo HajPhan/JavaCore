@@ -55,7 +55,7 @@ class Test {
 */
 
 /*    // error compile
-    static <T> void action(T as){
+    static <T> void action(Class<T> as){
         if (as instanceof T){
 
         }

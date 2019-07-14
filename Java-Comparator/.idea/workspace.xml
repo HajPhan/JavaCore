@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38b7107a-c585-4a89-aa37-986d5c7dd5f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Java-Annotations/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-Enum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Enum/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/classs/GenericSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/test/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Comparable/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Comparable/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/out/production/Java-Generics/mta/edu/vn/gennerics/classs/GenericBoundedTypeParameters.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/out/production/Java-Generics/mta/edu/vn/gennerics/classs/GenericBoundedTypeParameters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/out/production/Java-Generics/mta/edu/vn/gennerics/classs/GenericWildcards.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/out/production/Java-Generics/mta/edu/vn/gennerics/classs/GenericWildcards.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/out/production/Java-Generics/mta/edu/vn/gennerics/methods/GenericMethodTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/out/production/Java-Generics/mta/edu/vn/gennerics/methods/GenericMethodTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/methods/GenericMethodTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/methods/GenericMethodTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/package-info.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,55 +46,17 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" selection-start-line="3" selection-end-line="3" />
-              <folding>
-                <element signature="e#243#244#0" expanded="true" />
-                <element signature="e#268#269#0" expanded="true" />
-                <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#329#330#0" expanded="true" />
-                <element signature="e#360#361#0" expanded="true" />
-                <element signature="e#387#388#0" expanded="true" />
-                <element signature="e#427#428#0" expanded="true" />
-                <element signature="e#459#460#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="46" column="47" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/Comparator.java">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1163">
-              <caret line="470" selection-start-line="470" selection-end-line="470" />
+            <state relative-caret-position="434">
+              <caret line="46" column="47" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
               <folding>
-                <element signature="docComment;class#Comparator#0" />
-                <element signature="docComment;method#compare#0;class#Comparator#0" />
-                <element signature="docComment;method#equals#0;class#Comparator#0" />
-                <element signature="docComment;method#reversed#0;class#Comparator#0" />
-                <element signature="docComment;method#thenComparing#0;class#Comparator#0" />
-                <element signature="docComment;method#thenComparing#1;class#Comparator#0" />
-                <element signature="docComment;method#thenComparing#2;class#Comparator#0" />
-                <element signature="docComment;method#thenComparingInt#0;class#Comparator#0" />
-                <element signature="docComment;method#thenComparingLong#0;class#Comparator#0" />
-                <element signature="docComment;method#thenComparingDouble#0;class#Comparator#0" />
-                <element signature="docComment;method#reverseOrder#0;class#Comparator#0" />
-                <element signature="docComment;method#nullsFirst#0;class#Comparator#0" />
-                <element signature="docComment;method#nullsLast#0;class#Comparator#0" />
-                <element signature="docComment;method#comparing#0;class#Comparator#0" />
-                <element signature="method#comparing#0;class#Comparator#0" />
-                <element signature="docComment;method#comparing#1;class#Comparator#0" />
-                <element signature="method#comparing#1;class#Comparator#0" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -113,7 +83,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-97" />
     <option name="y" value="119" />
     <option name="width" value="1221" />
@@ -125,6 +95,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -161,14 +133,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java-Comparable" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -230,29 +201,24 @@
       <option name="presentableId" value="Default" />
       <updated>1562646984762</updated>
       <workItem from="1562646987443" duration="3186000" />
+      <workItem from="1562917108672" duration="2595000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3186000" />
+    <option name="totallyTimeSpent" value="5781000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32850242" />
@@ -260,15 +226,21 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,39 +254,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/package-info.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/model/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="46" column="47" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/Comparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1163">
+        <state relative-caret-position="1666">
           <caret line="470" selection-start-line="470" selection-end-line="470" />
           <folding>
             <element signature="docComment;class#Comparator#0" />
@@ -334,6 +276,26 @@
             <element signature="method#comparing#0;class#Comparator#0" />
             <element signature="docComment;method#comparing#1;class#Comparator#0" />
             <element signature="method#comparing#1;class#Comparator#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/model/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/package-info.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="46" column="47" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

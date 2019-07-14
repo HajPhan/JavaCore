@@ -17,6 +17,16 @@ public class GenericMethodTwo<T> {
         return result;
     }
 
+/*    public <@Actionable> R peformActionOne(final T action){
+        final R result = null;
+
+        return result;
+    }*/
+
+//    public< @Actionable T > void performAction( final T action ) {
+//        // Some implementation here
+//    }
+
     public <R,U> R performAction(final U action){
         R result = null;
         // Implementation here ...

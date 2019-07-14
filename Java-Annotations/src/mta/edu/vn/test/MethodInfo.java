@@ -15,8 +15,33 @@ import java.lang.annotation.*;
  *
  *********************************************************************************************************************************
  *********************************************************************************************************************************
+ * Build-in annotation in Java
+ *
+ *  - Có 5 build-in annotations:
+ *
+ *      1. @Override - Khi chúng ta muốn overrice một method của Superclass, chúng ta nên sử dụng annotation này để thông báo
+ *         cho trình biên dịch (compiler) rằng chúng ta đang ghi đè (override) một method(). Vì vậy khi một method của superclass
+ *         bị loại bỏ (removed) hoặc thay đổi (changed), trình biên dịch sẽ hiển thị thông báo lỗi
+ *
+ *      2. @Deprecated - Khi chúng ta muốn trình biên dịch biết rằng một method() không được dùng nữa, chúng ta nên sử dụng
+ *         annotation này. Java kiến nghị rằng trong javadoc, chúng ta nên cung cấp thông tin về lý do tại sao phương thức này
+ *         không được dùng nữa và đâu là phương án thay thế sử dụng.
+ *
+ *      3. @SupperessWarnings - Đây chỉ là để báo cho trình biên dịch (compiler) bỏ qua các cảnh báo cụ thể mà nó tạo ra,
+ *         ví dụ sử dụng row type trong generics. Chính sách duy trì của nó là SOURCE và nó bị loại bỏ bởi trình biên dịch.
+ *
+ *      4. @FunctionalInterface - Chú thích này được giới thiệu trong java 8 để chỉ ra rằng interface được dự định là một
+ *         function interface.
+ *
+ *      5. @SafeVarargs - Lập trình viên khẳng định rằng phần thân của method() hoặc constructor() được chú thích không thực
+ *         hiện các hoạt động không an toàn tiềm ẩn trên tham số varargs parameter của nó.
+ *
+ **********************************************************************************************************************************
+ **********************************************************************************************************************************
  *
  * Meta Annotations in Java:
+ *
+ *  - Có 5 loại meta anotations:
  *
  *      1. @Documented - chỉ ra rằng các element sử dụng annotation phải được ghi lại bằng javadoc và các công cụ tương tự.
  *         Loại này nên được sử dụng để chú thích các khai báo của các loại có chú thích ảnh hướng đến việc sử dụng các phần
