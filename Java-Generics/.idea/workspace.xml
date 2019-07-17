@@ -2,59 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="523569ff-0166-491d-a2a5-2f1e0599a804" name="Default Changelist" comment=":smile:">
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/AnnotaionWithRetention.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/AnnotaionWithTarger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/ExcelColumn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/InheritableAnnotaion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/RepeatableAnnotaion1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/RepeatableAnnotaion2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/RepeatingAnnotaions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/SimpleAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/SimpleAnnotationWithValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/enums/DayOfTheWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/enums/DayOfTheWeekConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/enums/DayOfTheWeekFieldInterfaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/enums/DayOfTheWeekFields.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/enums/DayOfTheWeekInterfaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/enums/EnumMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/enums/EnumSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/test/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Reflection/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/AccessPrivateFieldExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/AccessPrivateMethodExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/ChangeStaticFinalFieldExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/ClassAnnotationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/Excel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/ExcelColumn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/MyAnnotaion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/ReflectConstructorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/ReflectFieldExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/ReflectMethodExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/Say.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-Annotations/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-Annotations/out/production/Java-Annotations/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-Annotations/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-Enum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Enum/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/test/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java-Reflection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-Reflection/out/production/Java-Reflection/com/mta/edu/reflection/BaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/out/production/Java-Reflection/com/mta/edu/reflection/BaseClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-Reflection/out/production/Java-Reflection/com/mta/edu/reflection/ConcreteClass$ConcreteClassDefaultClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/out/production/Java-Reflection/com/mta/edu/reflection/ConcreteClass$ConcreteClassDefaultClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-Reflection/out/production/Java-Reflection/com/mta/edu/reflection/ConcreteClass$ConcreteClassPrivateClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/out/production/Java-Reflection/com/mta/edu/reflection/ConcreteClass$ConcreteClassPrivateClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-Reflection/out/production/Java-Reflection/com/mta/edu/reflection/ConcreteClass$ConcreteClassProtectedClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/out/production/Java-Reflection/com/mta/edu/reflection/ConcreteClass$ConcreteClassProtectedClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-Reflection/out/production/Java-Reflection/com/mta/edu/reflection/ConcreteClass$ConcreteClassPublicClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/out/production/Java-Reflection/com/mta/edu/reflection/ConcreteClass$ConcreteClassPublicClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-Reflection/out/production/Java-Reflection/com/mta/edu/reflection/ConcreteClass$ConreteClassDefaultEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/out/production/Java-Reflection/com/mta/edu/reflection/ConcreteClass$ConreteClassDefaultEnum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-Reflection/out/production/Java-Reflection/com/mta/edu/reflection/ConcreteClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/out/production/Java-Reflection/com/mta/edu/reflection/ConcreteClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-Reflection/out/production/Java-Reflection/com/mta/edu/reflection/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/out/production/Java-Reflection/com/mta/edu/reflection/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-Reflection/out/production/Java-Reflection/com/mta/edu/test/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/out/production/Java-Reflection/com/mta/edu/test/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/reflection/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/reflection/BaseClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/reflection/ConcreteClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/reflection/ConcreteClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/reflection/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/reflection/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/test/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,54 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/GenericBoundedTypeParameters.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/ClassImplemeningGenericInterface.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/interfaces/GenericIntefaceSeveralTypes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/GenericClassOneType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/GenericsType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/GenericClassImplementingGenericInterface.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -145,13 +45,68 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/test/GenericTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="118" selection-start-line="118" selection-end-line="118" />
+            <state relative-caret-position="607">
+              <caret line="124" column="33" lean-forward="true" selection-start-line="124" selection-start-column="33" selection-end-line="124" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/restriction/Box.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+              <folding>
+                <element signature="e#186#187#0" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/restriction/NoCast.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+              <folding>
+                <element signature="e#641#642#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/restriction/NoInstanceOf.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/restriction/NoArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/restriction/NoPrimitiveTypes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+              <folding>
+                <element signature="e#545#546#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -221,6 +176,11 @@
         <option value="$PROJECT_DIR$/src/mta/edu/vn/gennerics/classs/BoxOne.java" />
         <option value="$PROJECT_DIR$/src/mta/edu/vn/gennerics/methods/GenericsMethod.java" />
         <option value="$PROJECT_DIR$/src/mta/edu/vn/gennerics/test/GenericTester.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/gennerics/restriction/NoPrimitiveTypes.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/gennerics/restriction/Box.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/gennerics/restriction/NoCast.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/gennerics/restriction/NoInstanceOf.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/gennerics/restriction/NoArray.java" />
       </list>
     </option>
   </component>
@@ -267,57 +227,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="vn" type="462c0819:PsiDirectoryNode" />
               <item name="gennerics" type="462c0819:PsiDirectoryNode" />
-              <item name="classs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Generics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Generics" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="vn" type="462c0819:PsiDirectoryNode" />
-              <item name="gennerics" type="462c0819:PsiDirectoryNode" />
-              <item name="classs" type="462c0819:PsiDirectoryNode" />
-              <item name="GenericClassImplementingGenericInterface.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Java-Generics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Generics" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="vn" type="462c0819:PsiDirectoryNode" />
-              <item name="gennerics" type="462c0819:PsiDirectoryNode" />
-              <item name="classs" type="462c0819:PsiDirectoryNode" />
-              <item name="GuidelineForWildcardUse.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Java-Generics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Generics" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="vn" type="462c0819:PsiDirectoryNode" />
-              <item name="gennerics" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Generics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Generics" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="vn" type="462c0819:PsiDirectoryNode" />
-              <item name="gennerics" type="462c0819:PsiDirectoryNode" />
-              <item name="methods" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Generics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Generics" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="vn" type="462c0819:PsiDirectoryNode" />
-              <item name="gennerics" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Generics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Generics" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="vn" type="462c0819:PsiDirectoryNode" />
-              <item name="gennerics" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="restriction" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-Generics" type="b2602c69:ProjectViewProjectNode" />
@@ -356,7 +266,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GuidelineForWildcardUse">
+  <component name="RunManager" selected="Application.NoPrimitiveTypes">
     <configuration name="GenericMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mta.edu.vn.gennerics.test.GenericMethodTest" />
       <module name="Java-Generics" />
@@ -409,12 +319,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mta.edu.vn.gennerics.test.Main" />
+    <configuration name="NoPrimitiveTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mta.edu.vn.gennerics.restriction.NoPrimitiveTypes" />
       <module name="Java-Generics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mta.edu.vn.gennerics.test.*" />
+          <option name="PATTERN" value="mta.edu.vn.gennerics.restriction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -423,19 +333,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.GenericTester" />
       <item itemvalue="Application.GenericMethodTest" />
       <item itemvalue="Application.LowerBoundedWildcards" />
       <item itemvalue="Application.GuidelineForWildcardUse" />
+      <item itemvalue="Application.NoPrimitiveTypes" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NoPrimitiveTypes" />
         <item itemvalue="Application.GuidelineForWildcardUse" />
         <item itemvalue="Application.LowerBoundedWildcards" />
         <item itemvalue="Application.GenericTester" />
         <item itemvalue="Application.GenericMethodTest" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -456,7 +366,7 @@
       <workItem from="1562899645471" duration="3700000" />
       <workItem from="1562983019770" duration="15486000" />
       <workItem from="1563071086179" duration="1719000" />
-      <workItem from="1563346875624" duration="306000" />
+      <workItem from="1563346875624" duration="3585000" />
     </task>
     <task id="LOCAL-00001" summary=":smile:">
       <created>1562840445357</created>
@@ -469,10 +379,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46058000" />
+    <option name="totallyTimeSpent" value="49337000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27609682" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -483,7 +394,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32850242" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32850242" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -759,11 +670,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/test/GenericTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="118" selection-start-line="118" selection-end-line="118" />
+        <state relative-caret-position="607">
+          <caret line="124" column="33" lean-forward="true" selection-start-line="124" selection-start-column="33" selection-end-line="124" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/restriction/NoPrimitiveTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="e#545#546#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/restriction/Box.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/restriction/NoCast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <folding>
+            <element signature="e#641#642#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/restriction/NoInstanceOf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/gennerics/restriction/NoArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>

@@ -2,59 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08094cbc-deab-47da-9bb3-cc8e136be530" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/AnnotaionWithRetention.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/AnnotaionWithTarger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/ExcelColumn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/InheritableAnnotaion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/RepeatableAnnotaion1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/RepeatableAnnotaion2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/RepeatingAnnotaions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/SimpleAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/SimpleAnnotationWithValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/enums/DayOfTheWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/enums/DayOfTheWeekConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/enums/DayOfTheWeekFieldInterfaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/enums/DayOfTheWeekFields.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/enums/DayOfTheWeekInterfaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/enums/EnumMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/enums/EnumSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/test/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mta/edu/example/AccessPrivateFieldExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mta/edu/example/AccessPrivateMethodExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mta/edu/example/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mta/edu/example/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mta/edu/example/ChangeStaticFinalFieldExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mta/edu/example/ClassAnnotationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mta/edu/example/Excel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mta/edu/example/ExcelColumn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mta/edu/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mta/edu/example/MyAnnotaion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mta/edu/example/ReflectConstructorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mta/edu/example/ReflectFieldExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mta/edu/example/ReflectMethodExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mta/edu/example/Say.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-Annotations/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-Annotations/out/production/Java-Annotations/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-Annotations/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-Enum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Enum/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/test/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java-Generics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Reflection/com/mta/edu/reflection/BaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Reflection/com/mta/edu/reflection/BaseClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Reflection/com/mta/edu/reflection/ConcreteClass$ConcreteClassDefaultClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Reflection/com/mta/edu/reflection/ConcreteClass$ConcreteClassDefaultClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Reflection/com/mta/edu/reflection/ConcreteClass$ConcreteClassPrivateClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Reflection/com/mta/edu/reflection/ConcreteClass$ConcreteClassPrivateClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Reflection/com/mta/edu/reflection/ConcreteClass$ConcreteClassProtectedClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Reflection/com/mta/edu/reflection/ConcreteClass$ConcreteClassProtectedClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Reflection/com/mta/edu/reflection/ConcreteClass$ConcreteClassPublicClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Reflection/com/mta/edu/reflection/ConcreteClass$ConcreteClassPublicClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Reflection/com/mta/edu/reflection/ConcreteClass$ConreteClassDefaultEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Reflection/com/mta/edu/reflection/ConcreteClass$ConreteClassDefaultEnum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Reflection/com/mta/edu/reflection/ConcreteClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Reflection/com/mta/edu/reflection/ConcreteClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Reflection/com/mta/edu/reflection/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Reflection/com/mta/edu/reflection/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Reflection/com/mta/edu/test/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Reflection/com/mta/edu/test/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mta/edu/reflection/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mta/edu/reflection/BaseClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mta/edu/reflection/ConcreteClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mta/edu/reflection/ConcreteClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mta/edu/reflection/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mta/edu/reflection/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mta/edu/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mta/edu/test/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -355,15 +303,16 @@
       <workItem from="1563153602826" duration="9729000" />
       <workItem from="1563243859902" duration="21202000" />
       <workItem from="1563282603990" duration="6134000" />
-      <workItem from="1563326513138" duration="16508000" />
+      <workItem from="1563326513138" duration="17387000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61106000" />
+    <option name="totallyTimeSpent" value="61985000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21633889" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
