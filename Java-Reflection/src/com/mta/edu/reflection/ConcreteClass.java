@@ -14,6 +14,13 @@ public class ConcreteClass extends BaseClass implements BaseInterface {
         this.publicInt = i;
     }
 
+    public ConcreteClass(String i) {
+        this.privateString = i;
+    }
+
+    public ConcreteClass() {
+    }
+
     @Override
     public void method1() {
         System.err.println("Method1 impl.");

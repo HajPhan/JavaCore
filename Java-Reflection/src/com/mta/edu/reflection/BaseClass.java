@@ -5,7 +5,7 @@ public class BaseClass {
     public int baseInt;
 
     private static void method3(){
-        System.out.println("Method3");
+        System.out.println("Method3 ...");
     }
 
     public int method4(){
