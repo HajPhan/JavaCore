@@ -11,7 +11,7 @@ public class Main {
         String s = new String();
         Method [] methods = s.getClass().getMethods();
         Class c = String.class;
-        System.err.println(Arrays.toString(c.getClass().getMethods()));
+        System.err.println(Arrays.toString(c.getClass().getMethods()) );
         for (final Method m : methods){
             System.out.println(m.getName());
         }
