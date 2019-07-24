@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2556392-65b7-4d20-9a1a-d64bc97f3008" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mta/edu/vn/test/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../APTProcesser/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../APTProcesser/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mta/edu/vn/threads/HeavyWorkRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mta/edu/vn/threads/HeavyWorkRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Multithread/mta/edu/vn/threads/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Multithread/mta/edu/vn/threads/Consumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Multithread/mta/edu/vn/threads/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Multithread/mta/edu/vn/threads/Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Multithread/mta/edu/vn/threads/Producer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Multithread/mta/edu/vn/threads/ProducerConsumerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Multithread/mta/edu/vn/threads/ProducerConsumerService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Multithread/mta/edu/vn/threads/wait_notify/Notifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Multithread/mta/edu/vn/threads/wait_notify/Notifier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Multithread/mta/edu/vn/threads/wait_notify/WaitNotifyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Multithread/mta/edu/vn/threads/wait_notify/WaitNotifyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Multithread/mta/edu/vn/threads/wait_notify/Waiter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Multithread/mta/edu/vn/threads/wait_notify/Waiter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mta/edu/vn/threads/wait_notify/Notifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mta/edu/vn/threads/wait_notify/Notifier.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,52 +25,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/HeavyWorkRunnable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/MyThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-              <folding>
-                <element signature="e#102#103#0" expanded="true" />
-                <element signature="e#129#130#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/Producer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/ProducerConsumerService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/ThreadJoinExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
@@ -75,38 +33,76 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/ThreadSleep.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="86" selection-start-line="7" selection-start-column="86" selection-end-line="7" selection-end-column="86" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/Consumer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#245#246#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/wait_notify/Waiter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            <state relative-caret-position="272">
+              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
               <folding>
-                <element signature="e#177#178#0" expanded="true" />
-                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#184#185#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/sleep/SleepMethod_01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/join/JoinMethod_01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/synchronization/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+              <folding>
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#156#157#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/deamon/DeamonThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+              <folding>
+                <element signature="e#582#860#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/deamon/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/deamon/NonDeamonThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="73" selection-start-line="11" selection-start-column="73" selection-end-line="11" selection-end-column="73" />
             </state>
           </provider>
         </entry>
@@ -114,17 +110,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/wait_notify/WaitNotifyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+            <state relative-caret-position="238">
+              <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/wait_notify/Notifier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            <state relative-caret-position="332">
+              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+              <folding>
+                <element signature="e#187#188#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -139,6 +139,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>run</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -155,12 +160,18 @@
         <option value="$PROJECT_DIR$/src/mta/edu/vn/threads/Message.java" />
         <option value="$PROJECT_DIR$/src/mta/edu/vn/threads/Notifier.java" />
         <option value="$PROJECT_DIR$/src/mta/edu/vn/threads/common/Message.java" />
-        <option value="$PROJECT_DIR$/src/mta/edu/vn/threads/wait_notify/Notifier.java" />
         <option value="$PROJECT_DIR$/src/mta/edu/vn/threads/wait_notify/Waiter.java" />
         <option value="$PROJECT_DIR$/src/mta/edu/vn/threads/wait_notify/WaitNotifyTest.java" />
         <option value="$PROJECT_DIR$/src/mta/edu/vn/threads/Consumer.java" />
         <option value="$PROJECT_DIR$/src/mta/edu/vn/threads/Producer.java" />
         <option value="$PROJECT_DIR$/src/mta/edu/vn/threads/ProducerConsumerService.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/threads/wait_notify/Notifier.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/threads/sleep/SleepMethod_01.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/threads/join/JoinMethod_01.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/threads/synchronization/Test.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/threads/deamon/DeamonThread.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/threads/deamon/Test.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/threads/deamon/NonDeamonThread.java" />
       </list>
     </option>
   </component>
@@ -176,7 +187,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -215,7 +225,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="vn" type="462c0819:PsiDirectoryNode" />
               <item name="threads" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="deamon" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-Multithread" type="b2602c69:ProjectViewProjectNode" />
@@ -230,6 +240,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,6 +258,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="mta.edu.vn.threads.common" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -259,13 +275,52 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WaitNotifyTest">
-    <configuration name="ProducerConsumerService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mta.edu.vn.threads.ProducerConsumerService" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="DeamonThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mta.edu.vn.threads.deamon.DeamonThread" />
       <module name="Java-Multithread" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mta.edu.vn.threads.wait_notify.*" />
+          <option name="PATTERN" value="mta.edu.vn.threads.deamon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JoinMethod_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mta.edu.vn.threads.join.JoinMethod_01" />
+      <module name="Java-Multithread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mta.edu.vn.threads.join.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SleepMethod_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mta.edu.vn.threads.sleep.SleepMethod_01" />
+      <module name="Java-Multithread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mta.edu.vn.threads.sleep.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mta.edu.vn.threads.synchronization.Test" />
+      <module name="Java-Multithread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mta.edu.vn.threads.synchronization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,50 +329,11 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mta.edu.vn.test.Test" />
+      <option name="MAIN_CLASS_NAME" value="mta.edu.vn.threads.deamon.Test" />
       <module name="Java-Multithread" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mta.edu.vn.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadJoinExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mta.edu.vn.threads.ThreadJoinExample" />
-      <module name="Java-Multithread" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mta.edu.vn.threads.wait_notify.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadSleep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mta.edu.vn.threads.ThreadSleep" />
-      <module name="Java-Multithread" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mta.edu.vn.threads.wait_notify.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WaitNotifyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mta.edu.vn.threads.wait_notify.WaitNotifyTest" />
-      <module name="Java-Multithread" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mta.edu.vn.threads.wait_notify.*" />
+          <option name="PATTERN" value="mta.edu.vn.threads.deamon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -327,11 +343,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WaitNotifyTest" />
-        <item itemvalue="Application.ProducerConsumerService" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ThreadJoinExample" />
-        <item itemvalue="Application.ThreadSleep" />
+        <item itemvalue="Application.DeamonThread" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.JoinMethod_01" />
+        <item itemvalue="Application.SleepMethod_01" />
       </list>
     </recent_temporary>
   </component>
@@ -348,17 +364,20 @@
       <workItem from="1563501812365" duration="8304000" />
       <workItem from="1563586623444" duration="2054000" />
       <workItem from="1563675655301" duration="9914000" />
-      <workItem from="1563758584602" duration="300000" />
+      <workItem from="1563758584602" duration="2840000" />
+      <workItem from="1563846515073" duration="12557000" />
+      <workItem from="1563931189418" duration="320000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20572000" />
+    <option name="totallyTimeSpent" value="35989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2685325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -367,7 +386,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4879227" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42190015" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993559" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -392,18 +411,6 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/mta/edu/vn/threads/Consumer.java</url>
-          <line>19</line>
-          <properties />
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/package-info.java">
       <provider selected="true" editor-type-id="text-editor" />
@@ -422,17 +429,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8942">
-          <caret line="581" column="38" lean-forward="true" selection-start-line="581" selection-start-column="38" selection-end-line="581" selection-end-column="38" />
-          <folding>
-            <element signature="e#20557#20558#0" expanded="true" />
-            <element signature="e#20600#20601#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/Message.kt" />
     <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/Test.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -441,54 +437,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/Message.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/Message.java" />
     <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/common/Message.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/wait_notify/Notifier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/wait_notify/Waiter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-          <folding>
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/wait_notify/WaitNotifyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -499,20 +452,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-          <folding>
-            <element signature="e#102#103#0" expanded="true" />
-            <element signature="e#129#130#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/Producer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="102">
           <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -522,11 +464,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/ProducerConsumerService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="136">
           <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="833" selection-start-line="833" selection-end-line="835" selection-end-column="9" />
+          <folding>
+            <element signature="e#20557#20558#0" expanded="true" />
+            <element signature="e#20600#20601#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/ThreadSleep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -537,10 +518,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/ThreadSleep.java">
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/wait_notify/Waiter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="86" selection-start-line="7" selection-start-column="86" selection-end-line="7" selection-end-column="86" />
+        <state relative-caret-position="272">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <folding>
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/sleep/SleepMethod_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/join/JoinMethod_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/synchronization/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/deamon/DeamonThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+          <folding>
+            <element signature="e#582#860#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/deamon/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/deamon/NonDeamonThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="73" selection-start-line="11" selection-start-column="73" selection-end-line="11" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/wait_notify/WaitNotifyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/threads/wait_notify/Notifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
