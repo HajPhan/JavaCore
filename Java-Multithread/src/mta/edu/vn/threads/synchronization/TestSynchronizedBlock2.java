@@ -2,7 +2,7 @@ package mta.edu.vn.threads.synchronization;
 
 class People {
     void printPeople(int n) {
-        synchronized (this) {
+        synchronized (People.class) {
             for (int i = 1; i <= 5; i++) {
                 System.out.println(n * i);
                 try {
