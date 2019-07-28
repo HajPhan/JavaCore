@@ -2,7 +2,16 @@ package mta.edu.vn.test;
 
 public class Test extends Thread implements Runnable {
 
+    public void msg(){
+        System.out.println("Hello Lambda Expresstion");
+
+    }
+
     public static void main(String[] args) {
+
+    }
+
+    public static void main() {
         Thread t1 = new Thread(new Test());
         Thread t2 = new Thread(new Test());
         Thread t3 = new Thread(new Test());
